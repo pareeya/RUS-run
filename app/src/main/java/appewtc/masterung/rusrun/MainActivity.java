@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         //Load Image from Server
         Picasso.with(this).load(urlLogo).into(imageView);
 
+
     }   // Main Method
 
     //Create Inner Class
